@@ -1,6 +1,6 @@
 # Core-Move-Advantages-Slides
 
-For Canva slides, see https://www.canva.com/design/DAF_tifX6Uw/q9VL8oMJM4f2MY-hzeAa_A/edit?utm_content=DAF_tifX6Uw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+For Canva slides, see ![The Move Language: Technical Advantages in Canva](https://www.canva.com/design/DAF_tifX6Uw/q9VL8oMJM4f2MY-hzeAa_A/edit?utm_content=DAF_tifX6Uw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Content
 - About Rust language
